@@ -1,1 +1,2 @@
-# cpp-projects
+# My C++ repository.
+Studies and projects.
