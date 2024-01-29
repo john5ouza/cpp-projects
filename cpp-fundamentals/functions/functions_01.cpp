@@ -21,6 +21,11 @@ string returnHi(string name)
   return "Hi " + name + "!";
 }
 
+int min( int a, int b)
+{
+  return a < b ? a : b;
+}
+
 int main()
 {
   sayHello();
